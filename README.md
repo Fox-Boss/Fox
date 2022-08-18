@@ -10,7 +10,7 @@ git clone https://github.com/Fox-Boss/Telegram-Fake-Views
 ### Bulid
 ```sh
 go build .
-./tg_booster -h
+./Fox_booster -h
 ```
 ### Run
 ```
@@ -25,4 +25,4 @@ go build .
 Recommended workers count(-w) - 500. Maximum workers count - 1100
 ```
 ## License
-**Copyright © 2022 [Fox-Boss](https://t.me/F0X_BOSS)** <br />
+**Copyright © 2022 [Fox](https://t.me/F0X_BOSS)** <br />
