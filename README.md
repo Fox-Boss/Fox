@@ -24,6 +24,5 @@ go build .
 
 Recommended workers count(-w) - 500. Maximum workers count - 1100
 
-```
 ## License
 **Copyright © 2022 [Fox-Boss](https://t.me/F0X_BOSS)** <br />
